@@ -1,16 +1,21 @@
-### Hi there 👋
+👋 ¡Hola, soy Alberto!
 
-<!--
-**albertodlb9/albertodlb9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador web en formación con experiencia en PHP, Java y desarrollo fullstack. Actualmente, estoy ampliando mis conocimientos en el ámbito del desarrollo web mediante un grado superior en Desarrollo Web.
 
-Here are some ideas to get you started:
+🚀 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Formación: Biólogo reconvertido en desarrollador web.
+
+💻 Stack principal: PHP, Java, MySQL.
+
+🛠 Herramientas y tecnologías: Visual Studio Code, APIs, desarrollo backend, desarrollo frontend.
+
+🔍 Intereses: Desarrollo web, seguridad informática, APIs y frameworks modernos.
+
+📫 ¿Cómo contactarme?
+
+💼 LinkedIn: www.linkedin.com/in/alberto-de-la-blanca/
+
+📧 Email: Saloalberto97@gmail.com
+
+🛠 Siempre aprendiendo y buscando mejorar mis habilidades. ¡Vamos a construir algo increíble juntos! 🚀
